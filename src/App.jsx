@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div
       style={{
-        backgroundColor: dark ? "#1e1e1e" : "#f5f5f5",
+        backgroundColor: dark ? "#1e1e1e" : "#fff",
         minHeight: "100vh",
         color: dark ? "#fff" : "#000",
         transition: "0.3s",
