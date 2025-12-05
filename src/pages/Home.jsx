@@ -9,10 +9,10 @@ export default function Home({ dark }) {
         py: 4,
         minHeight: "100vh",
 
-        // 🌙 Dark/Lite gradient
+       
         background: dark
-          ? "linear-gradient(135deg, #0f0f0f, #1a1a1a)"        // Dark mode
-          : "linear-gradient(135deg, #d4d4d4, #8f8f8f)",      // ✔ Soft gray light mode
+          ? "linear-gradient(135deg, #0f0f0f, #1a1a1a)"        
+          : "linear-gradient(135deg, #d4d4d4, #8f8f8f)",    
 
         color: dark ? "#fff" : "#000",
         transition: "0.3s",

@@ -138,6 +138,13 @@ const products = [
     price: 1300,
     img: "https://appleinsider.ru/wp-content/uploads/2022/09/ipad_pro_2022_whats_new_prediction_head-1280x720.png",
     desc: "Eng kuchli iPad modeli."
+  },
+  {
+    id: 21,
+    title: "iPad Pro 2022",
+    price: 1500,
+    img: "",
+    desc: "Eng kuchli iPad modeli."
   }
 ];
 
